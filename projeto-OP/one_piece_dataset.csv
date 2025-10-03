@@ -1,0 +1,355 @@
+,name,size,age,bounty,job,crew.roman_name,fruit.type,fruit.roman_name,survive
+0,Monkey D Luffy,174.0,19,3000000000.0,Captain,Mugiwara no Ichimi,Paramecia,Gomu Gomu no Mi,1
+1,Roronoa Zoro,181.0,21,320000000.0,Right-hand man,Mugiwara no Ichimi,Don't have,Don't have,1
+2,Nami,170.0,20,66000000.0,Navigator,Mugiwara no Ichimi,Don't have,Don't have,0
+3,Usopp,176.0,19,200000000.0,Sniper,Mugiwara no Ichimi,Don't have,Don't have,1
+4,Sanji,180.0,21,330000000.0,Cook,Mugiwara no Ichimi,Don't have,Don't have,0
+5,Tony-Tony Chopper,90.0,17,100.0,Doctor,Mugiwara no Ichimi,Zoan,Hito Hito no Mi,0
+6,Nico Robin,188.0,30,130000000.0,Archaeologist,Mugiwara no Ichimi,Paramecia,Hana Hana no Mi,1
+7,Franky,240.0,36,94000000.0,Carpenter,Mugiwara no Ichimi,Don't have,Don't have,0
+8,Brook,277.0,90,83000000.0,Musician,Mugiwara no Ichimi,Paramecia,Yomi Yomi no Mi,0
+9,Jinbe,301.0,46,438000000.0,Helmsman,Mugiwara no Ichimi,Don't have,Don't have,0
+11,Cavendish,208.0,26,330000000.0,Captain,Mugiwara Dai-sendan,Don't have,Don't have,1
+12,Suleiman,240.0,40,670000000.0,Fighter,Mugiwara Dai-sendan,Don't have,Don't have,1
+13,Bartolomeo,220.0,24,200000000.0,Captain,Mugiwara Dai-sendan,Paramecia,Bari Bari no Mi,1
+15,Sai,242.0,28,210000000.0,13th Chief Commander,Mugiwara Dai-sendan,Don't have,Don't have,0
+17,Baby 5,181.0,24,0.0,Don't have,Mugiwara Dai-sendan,Paramecia,Buki Buki no Mi,0
+18,Ideo,225.0,22,0.0,Captain,Mugiwara Dai-sendan,Don't have,Don't have,0
+19,Blue Gilly,314.0,24,0.0,Don't have,Mugiwara Dai-sendan,Don't have,Don't have,0
+22,Léo,23.0,25,0.0,Captain,Mugiwara Dai-sendan,Paramecia,Nui Nui no Mi,0
+25,Hajrudin,2200.0,81,0.0,Captain,Mugiwara Dai-sendan,Don't have,Don't have,0
+30,Orlumbus,480.0,42,148000000.0,Admiral,Mugiwara Dai-sendan,Don't have,Don't have,0
+31,Baggy / Le Clown,192.0,39,150000000.0,Chairman,Bagīzu Deribarī,Paramecia,Bara Bara no Mi,1
+32,Alvida,198.0,27,5000000.0,Don't have,Bagīzu Deribarī,Paramecia,Sube Sube no Mi,0
+33,Galdino,179.0,37,24000000.0,Don't have,Bagīzu Deribarī,Paramecia,Doru Doru no Mi,0
+34,Morge,197.0,29,0.0,Don't have,Bagīzu Deribarī,Don't have,Don't have,0
+35,Cabaji,208.0,34,0.0,Don't have,Bagīzu Deribarī,Don't have,Don't have,0
+36,Kuro,207.0,35,16000000.0,Captain,Kuroneko Kaizoku Dan,Don't have,Don't have,1
+37,Sham,201.0,23,7000000.0,Officer,Kuroneko Kaizoku Dan,Don't have,Don't have,0
+38,Buchi,216.0,23,7000000.0,Officer,Kuroneko Kaizoku Dan,Don't have,Don't have,0
+39,Krieg / Don Krieg,243.0,44,17000000.0,Captain,Kuriiku Kaizoku Kantai,Don't have,Don't have,1
+40,Gyn,186.0,27,12000000.0,Vice-Admiral,Kuriiku Kaizoku Kantai,Don't have,Don't have,0
+41,Pearl,239.0,25,0.0,Captain (2nd Battalion),Kuriiku Kaizoku Kantai,Don't have,Don't have,0
+42,Montblanc Cricket,242.0,43,25000000.0,Commander-in-Chief,Saruyama Rengō,Don't have,Don't have,0
+43,Masira,345.0,25,23000000.0,Don't have,Saruyama Rengō,Don't have,Don't have,0
+44,Shojo,351.0,27,36000000.0,Don't have,Saruyama Rengō,Don't have,Don't have,0
+45,Foxy,180.0,38,24000000.0,Captain,Fokushī Kaizokudan,Paramecia,Noro Noro no Mi,1
+48,Gecko Moria,692.0,50,320000000.0,Captain,Surirā Bāku,Paramecia,Kage Kage no Mi,1
+49,Hogback,223.0,47,0.0,Mysterious Four,Surirā Bāku,Don't have,Don't have,0
+50,Absalom,195.0,36,0.0,Mysterious Four,Surirā Bāku,Paramecia,Suke Suke no Mi,0
+51,Perona,160.0,25,0.0,Mysterious Four,Surirā Bāku,Paramecia,Horo Horo no Mi,0
+52,Laura,215.0,26,24000000.0,Captain,Rōringu Kaizokudan,Don't have,Don't have,1
+53,Trafalgar D. Water Law,191.0,26,500000000.0,Captain,Hāto no Kaizokudan,Paramecia,Ope Ope no Mi,1
+54,Bepo,240.0,22,500.0,Browser,Hāto no Kaizokudan,Don't have,Don't have,0
+58,Eustass Kidd,205.0,23,470000000.0,Captain,Kiddo Kaizokudan,Paramecia,Jiki Jiki no Mi,1
+59,Killer,195.0,27,200000000.0,Fighter,Kiddo Kaizokudan,Don't have,Don't have,1
+62,Capone Bege,166.0,42,350000000.0,Captain,Faia Tanku Kaizokudan,Paramecia,Shiro Shiro no Mi,1
+63,Vito,242.0,36,95000000.0,Advisor,Faia Tanku Kaizokudan,Don't have,Don't have,0
+64,Gotti,375.0,33,90000000.0,Assassin,Faia Tanku Kaizokudan,Don't have,Don't have,0
+65,Charlotte Chiffon,215.0,26,0.0,Don't have,Faia Tanku Kaizokudan,Don't have,Don't have,0
+67,Jewelry Bonney,174.0,24,140000000.0,Captain,Faia Tanku Kaizokudan,Don't have,Don't have,1
+68,Urouge,388.0,47,108000000.0,Captain,Hakaisō Kaizokudan,Don't have,Don't have,1
+69,Boa Hancock,191.0,31,80000000.0,Captain,Kuja Kaizokudan,Paramecia,Mero Mero no Mi,1
+70,Boa Sandersonia,453.0,30,40000000.0,Don't have,Kuja Kaizokudan,Zoan,Hebi Hebi no Mi moderu: Anakonda,0
+71,Boa Marigold,432.0,28,40000000.0,Don't have,Kuja Kaizokudan,Zoan,Hebi Hebi no Mi moderu: Kingu Kobura,0
+72,Margaret,178.0,18,0.0,Don't have,Kuja Kaizokudan,Don't have,Don't have,0
+75,Caribou,228.0,32,210000000.0,Co-Captain,Karibū Kaizokudan,Logia,Numa Numa no Mi,1
+76,Coribou,250.0,29,190000000.0,Co-Captain,Karibū Kaizokudan,Don't have,Don't have,1
+77,Ficher Tiger,4520.0,48,230000000.0,Captain,Taiyō no Kaizokudan,Don't have,Don't have,1
+78,Aladdin,627.0,46,0.0,Vice-Captain,Taiyō no Kaizokudan,Don't have,Don't have,0
+79,Charlotte Praliné,800.0,29,0.0,Don't have,Taiyō no Kaizokudan,Don't have,Don't have,0
+80,Dracule Mihawk,198.0,43,0.0,Don't have,Don't have,Don't have,Don't have,0
+81,Crocodile,253.0,46,81000000.0,Don't have,Don't have,Don't have,Don't have,0
+82,Das Bones,212.0,31,75000000.0,Don't have,Don't have,Don't have,Don't have,0
+83,Edward Weeble,680.0,35,480000000.0,Don't have,Don't have,Don't have,Don't have,0
+84,Shanks,199.0,39,4048900000.0,Captain,Akagami Kaizokudan,Don't have,Don't have,1
+85,Ben Beckmann,206.0,50,0.0,Vice-Captain,Akagami Kaizokudan,Don't have,Don't have,0
+86,Lucky Roo,241.0,35,0.0,Lieutenant,Akagami Kaizokudan,Don't have,Don't have,0
+87,Yassop,183.0,47,0.0,Lieutenant,Akagami Kaizokudan,Don't have,Don't have,0
+95,Charlotte Linlin / Big Mom,880.0,68,4388000000.0,Captain,Biggu Mamu Kaizokudan,Paramecia,Soru Soru no Mi,1
+96,Charlotte Dent-de-chien,509.0,48,1057000000.0,General Sucré,Biggu Mamu Kaizokudan,Paramecia,Mochi Mochi no Mi,0
+97,Charlotte Smoothie,464.0,35,932000000.0,General Sucré,Biggu Mamu Kaizokudan,Zoan,Uma Uma no Mi,1
+98,Charlotte Cracker,307.0,45,860000000.0,General Sucré,Biggu Mamu Kaizokudan,Paramecia,Bisu Bisu no Mi,0
+99,Charlotte Slurp,333.0,50,700000000.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Pero Pero no Mi,0
+100,Charlotte Daifuku,489.0,48,300000000.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Hoya Hoya no Mi,0
+101,Charlotte Oven,492.0,48,300000000.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Netsu Netsu no Mi,0
+104,Charlotte Brûlée,350.0,43,0.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Mira Mira no Mi,0
+105,Charlotte Mont d’Or,260.0,38,120000000.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Buku Buku no Mi,0
+108,Charlotte Pudding,166.0,16,0.0,Lieutenant,Biggu Mamu Kaizokudan,Paramecia,Memo Memo no Mi,0
+109,Charlotte Flampée,170.0,15,0.0,Lieutenant,Biggu Mamu Kaizokudan,Don't have,Don't have,0
+178,Pekoms,232.0,27,330000000.0,Fighter,Biggu Mamu Kaizokudan,Zoan,Kame Kame no Mi,1
+179,Delœuf,301.0,46,429000000.0,Fighter,Biggu Mamu Kaizokudan,Zoan,Tama Tama no Mi,1
+181,Streusen,140.0,92,0.0,Cook,Biggu Mamu Kaizokudan,Paramecia,Kuku Kuku no Mi,0
+186,Kaido,710.0,59,4611100000.0,Captain,Hyakujū Kaizokudan,Zoan Mythique,"Uo Uo no Mi, Moderu Seiryū",1
+187,King,613.0,47,1390000000.0,Superstar,Hyakujū Kaizokudan,Zoan Antique,Ryū Ryū no Mi Kodai-shu Moderu Puteranodon,0
+188,Queen,612.0,56,1320000000.0,Superstar,Hyakujū Kaizokudan,Zoan Antique,Ryū Ryū no Mi Moderu Burakiosaurusu,0
+189,Jack,730.0,28,1000000000.0,Superstar,Hyakujū Kaizokudan,Zoan Antique,"Zō Zō no Mi, moderu Manmosu",0
+190,Page One,171.0,20,290000000.0,Tobi Roppo,Hyakujū Kaizokudan,Zoan Antique,Ryū Ryū no Mi Moderu Supinosaurusu,0
+191,Ulti,173.0,22,400000000.0,Tobi Roppo,Hyakujū Kaizokudan,Zoan Antique,Ryū Ryū no Mi Moderu Pakikefarosaurusu,0
+192,Who’s Who,336.0,38,546000000.0,Tobi Roppo,Hyakujū Kaizokudan,Zoan Mythique,"Tori Tori no Mi, Moderu Fenikkusu",0
+193,Black Maria,820.0,29,480000000.0,Tobi Roppo,Hyakujū Kaizokudan,Zoan Antique,Kumo Kumo no Mi Moderu Rosamigare Guraubogerī,0
+194,Sasaki,318.0,34,472000000.0,Tobi Roppo,Hyakujū Kaizokudan,Zoan Antique,Ryū Ryū no Mi Moderu Torikeratopusu,0
+195,Sheep’s Head,293.0,24,0.0,Vedette,Hyakujū Kaizokudan,Smile,Don't have,0
+196,Basil Hawkins,210.0,31,320000000.0,Vedette,Hyakujū Kaizokudan,Paramecia,Wara Wara no Mi,1
+197,Holdem,312.0,30,0.0,Vedette,Hyakujū Kaizokudan,Smile,Don't have,0
+198,Speed,298.0,24,0.0,Vedette,Hyakujū Kaizokudan,Smile,Don't have,0
+246,Marchall D. Teach / Barbe Noire,344.0,40,2247600000.0,Pirate,Kurohige Kaizokudan,Logia,Yami Yami no Mi,1
+247,Jesus Burgess,355.0,29,20000000.0,Admiral ship's captain,Kurohige Kaizokudan,Paramecia,Riki Riki no Mi,1
+248,Shiliew,340.0,44,0.0,Commander 2nd Ship,Kurohige Kaizokudan,Paramecia,Suke Suke no Mi,0
+249,Van Auger,340.0,27,64000000.0,Commander 3rd Ship,Kurohige Kaizokudan,Paramecia,Wapu Wapu no mi,0
+250,Avalo Pizarro,505.0,42,0.0,Commander 4th Ship,Kurohige Kaizokudan,Paramecia,Shima Shima no Mi,0
+251,Lafitte,340.0,41,42200000.0,Commander 5th Ship,Kurohige Kaizokudan,Don't have,Don't have,0
+252,Catarina Devon,361.0,36,0.0,Commander 6th Ship,Kurohige Kaizokudan,Zoan Mythique,"Inu Inu no Mi, Moderu Kyūbi no Kitsune",0
+253,Sanjuan Wolf,18000.0,99,0.0,Commander 7th Ship,Kurohige Kaizokudan,Paramecia,Deka Deka no Mi,0
+254,Vasco Shot,573.0,38,0.0,Commander 8th Ship,Kurohige Kaizokudan,Paramecia,Gabu Gabu no Mi,0
+257,Gol D. Roger,274.0,53,5564800000.0,Captain,Rojā Kaizoku Dan,Don't have,Don't have,1
+258,Silvers Rayleigh,188.0,78,0.0,Right-hand man,Rojā Kaizoku Dan,Don't have,Don't have,0
+281,Arlong,263.0,41,20000000.0,Captain,Āron Ichimi,Don't have,Don't have,0
+282,Kuroobi,252.0,38,9000000.0,Lieutenant,Āron Ichimi,Don't have,Don't have,0
+283,Smack,257.0,35,5500000.0,Lieutenant,Āron Ichimi,Don't have,Don't have,0
+287,Sarquiss,228.0,27,38000000.0,Don't have,Don't have,Don't have,Don't have,0
+288,Edward Newgate / Barbe Blanche,666.0,72,5046000000.0,Captain,Shirohige Kaizokudan,Paramecia,Gura Gura no Mi,1
+289,Portgas D. Ace,185.0,20,550000000.0,Commander 2nd Ship,Shirohige Kaizokudan,Logia,Mera Mera no Mi,1
+290,Diamond Joz,503.0,42,0.0,Commander 3rd Ship,Shirohige Kaizokudan,Paramecia,Kira Kira no Mi,0
+292,Vista,328.0,47,0.0,Commander 5th Ship,Shirohige Kaizokudan,Don't have,Don't have,0
+346,Barbos Bruneriguez / Barbe Brune,691.0,45,80060000.0,Captain,Chahige Kaizokudan,Don't have,Don't have,0
+347,Bluejam,261.0,42,14300000.0,Captain,Burūjamu Kaizoku-dan,Don't have,Don't have,0
+348,Porchemy,320.0,25,3400000.0,Don't have,Burūjamu Kaizoku-dan,Don't have,Don't have,0
+349,Demaro Black,245.0,36,26000000.0,Captain,Nise Mugiwara no Ichimi,Don't have,Don't have,1
+351,Chocolat,181.0,26,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+352,Mounblutain,294.0,30,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+353,Drip,208.0,24,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+354,Nora Gitsune,103.0,13,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+355,Cocoa,138.0,27,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+356,Turco,258.0,45,0.0,Don't have,Nise Mugiwara no Ichimi,Don't have,Don't have,0
+357,Hody Jones,331.0,30,0.0,Captain,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+358,Dosun,418.0,30,0.0,Lieutenant,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+359,Zeo,325.0,30,0.0,Lieutenant,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+360,Daruma,122.0,30,0.0,Lieutenant,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+361,Ikaros Much,499.0,30,0.0,Lieutenant,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+362,Hyozo,327.0,39,0.0,Lieutenant,Shin Gyojin Kaizokudan,Don't have,Don't have,0
+363,Vander Decken IX,352.0,35,0.0,Captain,Furaingu Kaizokudan,Don't have,Don't have,0
+364,Don Quijote Doflamingo,305.0,41,340000000.0,Captain,Donkihōte Kaizokudan,Paramecia,Ito Ito no Mi,1
+365,Trébol,349.0,49,99000000.0,Lieutenant-Chef,Donkihōte Kaizokudan,Paramecia,Beta Beta no Mi,0
+366,Diamante,525.0,45,99000000.0,Lieutenant-Chef,Donkihōte Kaizokudan,Paramecia,Hira Hira no Mi,0
+367,Pica,470.0,40,99000000.0,Lieutenant-Chef,Donkihōte Kaizokudan,Paramecia,Ishi Ishi no Mi,0
+368,Vergo,247.0,41,0.0,Lieutenant-Chef,Donkihōte Kaizokudan,Don't have,Don't have,0
+369,Sugar,110.0,22,0.0,Lieutenant of the Trebol Army,Donkihōte Kaizokudan,Paramecia,Hobi Hobi no Mi,0
+370,Jora,221.0,61,0.0,Lieutenant of the Trebol Army,Donkihōte Kaizokudan,Paramecia,Ato Ato no Mi,0
+371,Lao G,157.0,70,61000000.0,Lieutenant of the Army of Diamante,Donkihōte Kaizokudan,Don't have,Don't have,0
+372,Señor Pink,244.0,46,58000000.0,Lieutenant of the Army of Diamante,Donkihōte Kaizokudan,Paramecia,Sui Sui no Mi,0
+373,Machvise,440.0,52,11000000.0,Lieutenant of the Army of Diamante,Donkihōte Kaizokudan,Paramecia,Ton Ton no Mi,0
+374,Dellinger,145.0,16,150000000.0,Lieutenant of the Army of Diamante,Donkihōte Kaizokudan,Don't have,Don't have,0
+375,Gladius,260.0,33,31000000.0,Pica Army Lieutenant,Donkihōte Kaizokudan,Paramecia,Pamu Pamu no Mi,0
+376,Buffallo,696.0,30,0.0,Pica Army Lieutenant,Donkihōte Kaizokudan,Paramecia,Guru Guru no Mi,0
+377,Monet,227.0,30,0.0,Lieutenant,Donkihōte Kaizokudan,Logia,Yuki Yuki no Mi,1
+385,Roswald,215.0,55,0.0,Don't have,Sekai Kizoku,Don't have,Don't have,0
+386,Charloss,230.0,24,0.0,Don't have,Sekai Kizoku,Don't have,Don't have,0
+387,Sharlia,178.0,17,0.0,Don't have,Sekai Kizoku,Don't have,Don't have,0
+391,Rob Lucci,212.0,30,0.0,Don't have,Don't have,Zoan,Zo Zo no Mi,0
+393,Spandam,192.0,41,0.0,Don't have,Don't have,Don't have,Don't have,0
+395,Kaku,193.0,25,0.0,Don't have,Don't have,Zoan,Ushi Ushi no Mi moderu Kirin,0
+398,Jerry,676.0,46,0.0,Don't have,Don't have,Don't have,Don't have,0
+399,Wanzé,173.0,28,0.0,Don't have,Don't have,Don't have,Don't have,0
+403,Hannyabal,355.0,35,0.0,director,Don't have,Don't have,Don't have,0
+404,Magellan,425.0,47,0.0,vice-president,Don't have,Paramecia,Doku Doku no Mi,0
+406,Saldeath,218.0,18,0.0,Chief of guards,Don't have,Don't have,Don't have,0
+407,Sadi,183.0,23,0.0,Chief of the demonic guard,Don't have,Don't have,Don't have,0
+413,Sakazuki / Akainu,306.0,55,0.0,Chief Admiral,Kaigun,Logia,Magu Magu no Mi,0
+414,Borsalino / Kizaru,302.0,58,0.0,Admiral,Kaigun,Logia,Pika Pika no Mi,0
+415,Issho / Fujitora,270.0,54,0.0,Admiral,Kaigun,Paramecia,Zushi Zushi no Mi,0
+417,Monkey D. Garp,287.0,78,0.0,Vice-Admiral,Kaigun,Don't have,Don't have,0
+418,Tsuru,204.0,76,0.0,Vice-Admiral,Kaigun,Paramecia,Woshu Woshu no Mi,0
+421,Momonga,251.0,48,0.0,Vice-Admiral,Kaigun,Don't have,Don't have,0
+428,Smoker,209.0,36,0.0,Vice-Admiral,Kaigun,Logia,Moku Moku no Mi,1
+431,Hina,181.0,34,0.0,Sub-Admiral,Kaigun,Paramecia,Ori Ori no Mi,0
+432,T. Bone,200.0,53,0.0,Sub-Admiral,Kaigun,Don't have,Don't have,0
+435,Brandnew,190.0,56,0.0,Rear Admiral,Kaigun,Don't have,Don't have,0
+439,Tashigi,170.0,23,0.0,Colonel,Kaigun,Don't have,Don't have,0
+440,Kobby,167.0,18,0.0,Colonel,Kaigun,Don't have,Don't have,0
+441,Nezumi,182.0,36,0.0,Colonel,Kaigun,Don't have,Don't have,0
+442,Don Quijote Rosinante,293.0,26,0.0,Lieutenant-Colonel,Kaigun,Paramecia,Nagi Nahi no Mi,0
+443,Hermep,179.0,22,0.0,Lieutenant,Kaigun,Don't have,Don't have,0
+444,Fullbody,184.0,28,0.0,Lieutenant,Kaigun,Don't have,Don't have,0
+445,Jango,207.0,29,0.0,Lieutenant,Kaigun,Don't have,Don't have,0
+446,Sengoku,278.0,79,0.0,Observer,Kaigun,Zoan Mythique,Hito Hito no Mi moderu Daibutsu,0
+447,Sentomaru,279.0,34,0.0,Captain of the Scientific Brigade,Kaigun,Don't have,Don't have,0
+448,X-Drake,233.0,33,0.0,Captain of the Sword,Kaigun,Zoan Antique,Ryū Ryū no Mi Moderu Arosaurusu,0
+462,Stelly,180.0,20,0.0,Sovereign,Don't have,Don't have,Don't have,0
+466,Makino,166.0,31,0.0,Bar owner,Don't have,Don't have,Don't have,0
+468,Curly Dadan,221.0,55,0.0,Mount Corvo resident,Don't have,Don't have,Don't have,0
+471,Higuma,190.0,46,0.0,Resident,Don't have,Don't have,Don't have,0
+473,Koshiro,184.0,51,0.0,Dojo Master,Don't have,Don't have,Don't have,0
+474,Kuina,150.0,11,0.0,Resident,Don't have,Don't have,Don't have,0
+475,Boodle,172.0,75,0.0,Mayor of the village of Orange,Don't have,Don't have,Don't have,0
+476,Chouchou,40.0,14,0.0,Store owner,Don't have,Don't have,Don't have,0
+477,Gaimone,130.0,45,0.0,Guard,Don't have,Don't have,Don't have,0
+479,Kaya,169.0,19,0.0,Medical student,Don't have,Don't have,Don't have,0
+481,Oignon,124.0,11,0.0,Resident of vilalge de Sirop,Don't have,Don't have,Don't have,0
+482,Piment,120.0,11,0.0,Resident of vilalge de Sirop,Don't have,Don't have,Don't have,0
+483,Carotte,127.0,11,0.0,Resident of vilalge de Sirop,Don't have,Don't have,Don't have,0
+485,Zeff,189.0,67,0.0,Owner and Chef,Don't have,Don't have,Don't have,0
+486,Patty,204.0,29,0.0,Pastry chef,Don't have,Don't have,Don't have,0
+487,Canne,171.0,34,0.0,Meat cook,Don't have,Don't have,Don't have,0
+488,Belmer,186.0,30,0.0,Tangerine grower,Don't have,Don't have,Don't have,0
+489,Nojiko,170.0,22,0.0,Tangerine grower,Don't have,Don't have,Don't have,0
+490,Genzo,173.0,48,0.0,Sheriff,Don't have,Don't have,Don't have,0
+493,Johny,186.0,25,0.0,Fisherman,Don't have,Don't have,Don't have,0
+494,Yosaku,185.0,26,0.0,Fisherman,Don't have,Don't have,Don't have,0
+495,Ipponmatsu,157.0,40,0.0,Armurier,Don't have,Don't have,Don't have,0
+496,Montblanc Norland,220.0,39,0.0,Explorer,Don't have,Don't have,Don't have,0
+499,Wapol,207.0,29,0.0,King,Don't have,Paramecia,Baku Baku no Mi,0
+501,Clover,172.0,85,0.0,Library Manager,Don't have,Don't have,Don't have,0
+502,Nico Olvia,186.0,33,0.0,Archaeologist,Don't have,Don't have,Don't have,0
+503,Haguar D. Sauro,1950.0,105,0.0,Vice-Admiral,Don't have,Don't have,Don't have,0
+505,Chinjao,520.0,78,542000000.0,Don't have,Don't have,Don't have,Don't have,0
+506,Crocus,203.0,73,0.0,Lighthouse keeper,Don't have,Don't have,Don't have,0
+507,Laboon,40000.0,53,0.0,Resident,Don't have,Don't have,Don't have,0
+510,Dorry,2260.0,160,0.0,Resident,Don't have,Don't have,Don't have,0
+511,Broggy,2130.0,160,0.0,Resident,Don't have,Don't have,Don't have,0
+512,Dolton,218.0,35,0.0,Sovereign,Don't have,Don't have,Don't have,0
+513,Kureha,188.0,141,0.0,Doctor,Don't have,Don't have,Don't have,0
+514,Hiluluk,213.0,68,0.0,Doctor,Don't have,Don't have,Don't have,0
+515,Chess,194.0,32,0.0,Chief of Staff,Don't have,Don't have,Don't have,0
+516,Kuromarimo,186.0,30,0.0,Director,Don't have,Don't have,Don't have,0
+517,Nefertari Cobra,182.0,50,0.0,12th King,Don't have,Don't have,Don't have,0
+519,Nefertari Vivi,169.0,18,0.0,Princess,Don't have,Don't have,Don't have,0
+520,Igaram,218.0,50,0.0,Commander of the Royal Guard,Don't have,Don't have,Don't have,0
+521,Chaka,213.0,41,0.0,Deputy Commander of the Royal Guard,Don't have,Zoan,Inu Inu no Mi moderu Jakkaru,0
+522,Pell,189.0,35,0.0,Deputy Commander of the Royal Guard,Don't have,Zoan,Tori Tori no Mi,0
+523,Kaloo,150.0,16,0.0,Super Duck Squadron,Don't have,Don't have,Don't have,0
+524,Longs-Cils,190.0,17,0.0,Resident,Don't have,Don't have,Don't have,0
+531,Koza,177.0,22,0.0,Minister for the Environment,Don't have,Don't have,Don't have,0
+533,Tonjit,110.0,63,0.0,Nomad,Don't have,Don't have,Don't have,0
+535,Gedatsu,220.0,31,0.0,Employee,Don't have,Don't have,Don't have,0
+536,Icebarg,199.0,40,0.0,Galley-La Company (manager),Don't have,Don't have,Don't have,0
+537,Pauly,195.0,26,0.0,Galley-La Company (vice-manager),Don't have,Don't have,Don't have,0
+538,Peeply Lulu,206.0,33,0.0,Galley-La Company (head of coaters and blacksmiths),Don't have,Don't have,Don't have,0
+539,Tilestone,255.0,35,0.0,"Galley-La Company (head of cabinetmakers, sailmakers and sailmakers)",Don't have,Don't have,Don't have,0
+540,Zanbai,227.0,35,0.0,Galley-La Company (Zanbai syndicate),Don't have,Don't have,Don't have,0
+541,Mozu,187.0,21,0.0,Bartender,Don't have,Don't have,Don't have,0
+542,Kiwi,187.0,22,0.0,Bartender,Don't have,Don't have,Don't have,0
+543,Tom,296.0,67,0.0,Tom's Workers (boss),Don't have,Don't have,Don't have,0
+544,Kokoro,168.0,72,0.0,Shift Station Station Manager,Don't have,Don't have,Don't have,0
+545,Chimney,115.0,10,0.0,Shift Station Sunday stationmaster,Don't have,Don't have,Don't have,0
+548,Silvers Rayleigh,188.0,78,0.0,Resident,Don't have,Don't have,Don't have,0
+549,Shakuyaku,186.0,64,0.0,Resident,Don't have,Don't have,Don't have,0
+551,Duval,470.0,25,0.0,Resident,Don't have,Don't have,Don't have,0
+552,Héraclès,214.0,51,0.0,Resident,Don't have,Don't have,Don't have,0
+554,Jorl,2150.0,344,0.0,Resident,Don't have,Don't have,Don't have,0
+555,Jarl,2050.0,408,0.0,Resident,Don't have,Don't have,Don't have,0
+556,Oimo,1600.0,153,0.0,Resident,Don't have,Don't have,Don't have,0
+557,Kaashii,1700.0,156,0.0,Resident,Don't have,Don't have,Don't have,0
+558,Sukiyaki Kozuki,214.0,81,0.0,Shogun,Don't have,Don't have,Don't have,0
+559,Oden Kozuki,382.0,39,0.0,Lord of Kuri,Don't have,Don't have,Don't have,0
+560,Toki Kozuki,190.0,36,0.0,Resident,Don't have,Paramecia,Toki Toki no Mi,0
+561,Mononosuké Kozuki,110.0,8,0.0,Shogun,Don't have,Smile,Don't have,0
+562,Hiyori Kozuki,170.0,26,0.0,Courtesan,Don't have,Don't have,Don't have,0
+563,Kinémon,295.0,36,0.0,Red sheaths,Don't have,Paramecia,Fuku Fuku no Mi,0
+564,Denjiro,306.0,47,0.0,Red sheaths,Don't have,Don't have,Don't have,0
+565,Izo,192.0,45,510000000.0,Red sheaths,Don't have,Don't have,Don't have,0
+566,Kikunojo,287.0,22,0.0,Red sheaths,Don't have,Don't have,Don't have,0
+567,Raizo,331.0,35,0.0,Red sheaths,Don't have,Don't have,Don't have,0
+568,Ashura Doji,544.0,56,0.0,Red sheaths,Don't have,Don't have,Don't have,0
+569,Kawamatsu,271.0,41,0.0,Red sheaths,Don't have,Don't have,Don't have,0
+570,Shinobu,180.0,49,0.0,Red sheaths,Don't have,Paramecia,Juku Juku no Mi,0
+571,Orochi Kurozumi,350.0,54,0.0,Shogun,Don't have,Zoan Mythique,Hebi Hebi no Mi moderu Yamata no Orochi,0
+572,Kanjuro Kurozumi,347.0,34,0.0,Red sheaths,Don't have,Paramecia,Fude Fude no Mi,0
+575,Ryuma Shimotsuki,179.0,47,0.0,Shimotsuki clan,Don't have,Don't have,Don't have,0
+576,Yasui Shimotsuki,155.0,71,0.0,Shimotsuki clan,Don't have,Don't have,Don't have,0
+577,Toko,89.0,8,0.0,Shimotsuki clan,Don't have,Don't have,Don't have,0
+578,Onimaru,428.0,69,0.0,Resident,Don't have,Zoan Mythique,"Hito Hito no Mi, Moderu: Ōnyūdō",0
+579,Hyogoro,100.0,70,0.0,head of a yakuza clan in the capital of flowers,Don't have,Don't have,Don't have,0
+584,Tama,108.0,8,0.0,Resident,Don't have,Paramecia,Kibi Kibi no Mi,0
+585,Tsurujo,191.0,55,0.0,Resident,Don't have,Don't have,Don't have,0
+589,Yamato,263.0,28,0.0,Resident,Don't have,Zoan Mythique,Inu Inu no Mi Moderu Ōkuchi no Makami,0
+590,Rock,4250.0,25,20000000.0,Yeti Cool Brothers,Don't have,Don't have,Don't have,0
+591,Scotch,4250.0,25,20000000.0,Yeti Cool Brothers,Don't have,Don't have,Don't have,0
+592,Smiley,15000.0,4,0.0,Resident,Don't have,Zoan,Sara Sara no Mi moderu: Ahorōtoru,0
+593,Riku Dold III,261.0,60,0.0,King,Don't have,Don't have,Don't have,0
+595,Kyros,268.0,44,0.0,Commander-in-Chief,Don't have,Don't have,Don't have,0
+596,Viola,178.0,29,0.0,Princess,Don't have,Paramecia,Giro Giro no Mi,0
+597,Rebecca,171.0,16,0.0,Next,Don't have,Don't have,Don't have,0
+604,Caborage,511.0,40,0.0,Day Lord / Red Sheaths,Don't have,Don't have,Don't have,0
+605,Chavipère,522.0,40,0.0,Seigneur Nocture / Fourreaux Rouges,Don't have,Don't have,Don't have,0
+606,Sicilion,196.0,34,0.0,Captain of the Musketeers unit,Don't have,Don't have,Don't have,0
+607,Cancelot,204.0,29,0.0,Musketeer unit,Don't have,Don't have,Don't have,0
+608,Giovanni,226.0,30,0.0,Musketeer unit,Don't have,Don't have,Don't have,0
+609,Wanda,181.0,28,0.0,Musketeer unit,Don't have,Don't have,Don't have,0
+610,Carrot,161.0,15,0.0,Musketeer unit,Don't have,Don't have,Don't have,0
+611,Pedro,233.0,32,0.0,Musketeer unit,Don't have,Don't have,Don't have,0
+612,Elizabello II,436.0,57,0.0,Sovereign,Don't have,Don't have,Don't have,0
+614,Kelly Funk,168.0,36,57000000.0,Assassin,Don't have,Paramecia,Jake Jake no Mi,0
+615,Bobby Funk,320.0,33,36000000.0,Assassin,Don't have,Don't have,Don't have,0
+616,Judge Vinsmoke,272.0,56,0.0,Sovereign,Don't have,Don't have,Don't have,0
+618,Reiju Vinsmoke,173.0,24,0.0,Princess,Don't have,Don't have,Don't have,0
+619,Ichiji Vinsmoke,186.0,21,0.0,Prince,Don't have,Don't have,Don't have,0
+620,Niji Vinsmoke,185.0,21,0.0,Prince,Don't have,Don't have,Don't have,0
+621,Yonji Vinsmoke,194.0,21,0.0,Prince,Don't have,Don't have,Don't have,0
+622,Marco,203.0,45,1374000000.0,Sphinx (doctor) / Command 1st Whitebeard Fleet,Don't have,Zoan Mythique,Tori Tori no Mi,0
+623,Gan Forr,180.0,68,0.0,God,Don't have,Don't have,Don't have,0
+625,Conis,176.0,21,0.0,Resident,Don't have,Don't have,Don't have,0
+626,Pagaya,179.0,54,0.0,Resident,Don't have,Don't have,Don't have,0
+627,Amazon,120.0,79,0.0,Resident,Don't have,Don't have,Don't have,0
+628,Chef Shandia,179.0,65,0.0,Resident / Shandia tribe (chief),Don't have,Don't have,Don't have,0
+629,Wiper,183.0,24,0.0,Divine Guard / Shandia Tribe,Don't have,Don't have,Don't have,0
+630,Kamakiri,214.0,24,0.0,Divine Guard / Shandia Tribe,Don't have,Don't have,Don't have,0
+631,Braham,179.0,24,0.0,Divine Guard / Shandia Tribe,Don't have,Don't have,Don't have,0
+632,Genbo,193.0,25,0.0,Divine Guard / Shandia Tribe,Don't have,Don't have,Don't have,0
+633,Laki,179.0,22,0.0,Resident / Shandia tribe,Don't have,Don't have,Don't have,0
+634,Aisa,140.0,11,0.0,Resident / Shandia tribe,Don't have,Don't have,Don't have,0
+635,Nora,20000.0,400,0.0,Resident / Shandia tribe,Don't have,Don't have,Don't have,0
+636,Calgara,222.0,39,0.0,Shandia tribe,Don't have,Don't have,Don't have,0
+637,Om,189.0,29,0.0,Skypiea (exiled) / Clan Ener (Prelate of the Iron ordalia),Don't have,Don't have,Don't have,0
+638,Satori,179.0,27,0.0,Skypiea (exiled) / Clan Ener (Prelate of the Balloon Ordinary),Don't have,Don't have,Don't have,0
+639,Shura,191.0,33,0.0,Skypiea (exiled) / Clan Ener (Prelate of the ordination of sons),Don't have,Don't have,Don't have,0
+640,Yama,366.0,45,0.0,Skypiea (exile) / Clan Ener (captain of the sacred guard),Don't have,Don't have,Don't have,0
+641,Hotori,179.0,27,0.0,Skypiea (exiled) / Clan Ener (vice captain of the sacred guard),Don't have,Don't have,Don't have,0
+642,Kotori,179.0,27,0.0,Skypiea (exiled) / Clan Ener (vice captain of the sacred guard),Don't have,Don't have,Don't have,0
+643,Haredas,253.0,97,0.0,Resident,Don't have,Don't have,Don't have,0
+644,Neptune,1220.0,70,0.0,Monarch,Don't have,Don't have,Don't have,0
+645,Otohime,224.0,36,0.0,Queen,Don't have,Don't have,Don't have,0
+646,Fukaboshi,604.0,24,0.0,Prince,Don't have,Don't have,Don't have,0
+647,Ryuboshi,544.0,23,0.0,Prince,Don't have,Don't have,Don't have,0
+648,Mamboshi,473.0,20,0.0,Prince,Don't have,Don't have,Don't have,0
+649,Shirahoshi,1187.0,16,0.0,Princess,Don't have,Don't have,Don't have,0
+652,Ministre Sénestre,435.0,62,0.0,Minister Sénestre,Don't have,Don't have,Don't have,0
+653,Ministre Dextre,313.0,55,0.0,Minister Dextre,Don't have,Don't have,Don't have,0
+654,Shyarly,520.0,29,0.0,Owner Café des Sirènes,Don't have,Don't have,Don't have,0
+655,Keimi,167.0,18,0.0,Café des Sirènes employee,Don't have,Don't have,Don't have,0
+656,Pappag,50.0,33,0.0,"Founder / Designer of the ""Criminal"" brand",Don't have,Don't have,Don't have,0
+657,Octy,220.0,38,8000000.0,Takoyaki merchant,Don't have,Don't have,Don't have,0
+658,Den,435.0,62,0.0,Carpenter,Don't have,Don't have,Don't have,0
+659,Ener,266.0,39,0.0,Manager,Don't have,Logia,Goro Goro no Mi,0
+660,Monkey D. Dragon,256.0,55,0.0,Commander-in-Chief,Don't have,Don't have,Don't have,0
+661,Sabo,187.0,22,602000000.0,Chief of Staff,Don't have,Logia,Mera Mera no Mi,1
+662,Emporio Ivankov,449.0,53,100000000.0,Command of troop G,Don't have,Paramecia,Horu Horu no Mi,0
+663,Corbeau,265.0,47,400000000.0,"Commander of the ""Septentrionale"" troop",Don't have,Don't have,Don't have,0
+664,Belo Betty,196.0,34,457000000.0,"Commander of the ""Oriental"" troop",Don't have,Paramecia,Kubu Kobu no Mi,1
+665,Morley,1253.0,160,293000000.0,"Western"" troop commander",Don't have,Paramecia,Oshi Oshi no Mi,0
+666,Lindbergh,149.0,37,316000000.0,"Commander of the ""southern"" troop",Don't have,Don't have,Don't have,0
+667,Inazuma,228.0,29,100000000.0,"Sub-Commander of ""G"" Troop",Don't have,Paramecia,Choki Choki no Mi,0
+669,Koala,160.0,23,0.0,Lieutenant,Don't have,Don't have,Don't have,0
+670,Hack,280.0,38,0.0,Private,Don't have,Don't have,Don't have,0
+671,Zala,187.0,28,35000000.0,Special Agent,Don't have,Paramecia,Toge Toge no Mi,0
+672,Bentham,238.0,32,32000000.0,Special Agent,Don't have,Paramecia,Mane Mane no Mi,0
+673,Marianne,145.0,18,29000000.0,Special Agent,Don't have,Don't have,Don't have,0
+674,Babe,218.0,30,3200000.0,Special Agent,Don't have,Don't have,Don't have,0
+676,Drophy,156.0,51,14000000.0,Special Agent,Don't have,Zoan,Mogu Mogu no Mi,1
+677,Gemme,197.0,26,10000000.0,Special Agent,Don't have,Paramecia,Bomu Bomu no Mi,0
+678,Mikita,177.0,24,7500000.0,Special Agent,Don't have,Paramecia,Kilo Kilo no Mi,0
+679,Jabura,212.0,37,0.0,Cipher Pol n°9,Don't have,Zoan,Inu Inu no Mi moderu: Ōkami,0
+680,Blueno,258.0,32,0.0,Cipher Pol n°9,Don't have,Paramecia,Doa Doa no Mi,0
+681,Kumadori,338.0,36,0.0,Cipher Pol n°9,Don't have,Don't have,Don't have,0
+682,Fukuro,331.0,31,0.0,Cipher Pol n°9,Don't have,Don't have,Don't have,0
+683,Kalifa,185.0,27,0.0,Cipher Pol n°9,Don't have,Paramecia,Awa Awa no Mi,0
+684,Nero,202.0,22,0.0,Cipher Pol n°9,Don't have,Don't have,Don't have,0
+685,Spandine,275.0,66,0.0,Cipher Pol n°9,Don't have,Don't have,Don't have,0
+686,Kuzan / Aokiji,298.0,49,0.0,Admiral,Don't have,Logia,Hie Hie no Mi,0
+687,Morgan,285.0,44,0.0,Colonel,Don't have,Don't have,Don't have,0
+688,Bellamy,240.0,27,195000000.0,Private,Donkihōte Kaizokudan,Paramecia,Bane Bane no Mi,1
+689,Bartholomew Kuma,689.0,47,296000000.0,Lieutenant,Don't have,Paramecia,Nikyu Nikyu no Mi,0
+690,César Clown,309.0,40,300000000.0,Don't have,Don't have,Logia,Gasu Gasu no Mi,1
+691,Morgans,305.0,53,0.0,World Economic Journal (boss),Don't have,Zoan,Tori Tori no Mi Moderu Arubatorosu,0
+734,Zéphyr,348.0,72,0.0,Chef,Don't have,Don't have,Don't have,0
+753,Orlombus,480.0,42,148000000.0,Admiral,Yonta Maria Dai-senda,Don't have,Don't have,0
